@@ -1,4 +1,4 @@
-# Dashboard for Corona Virus(Covid-19) updates
+# MDC APP
 
 
 ![id -0](https://user-images.githubusercontent.com/51057557/123468581-948c2c80-d60f-11eb-8e35-76faadafbd95.jpg)

@@ -1,0 +1,17 @@
+body {
+  --twitter-color: #fab83d;
+  --twitter-background: #d8d6f0;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+.react-switch {
+  margin-inline-end: -70px;
+}
